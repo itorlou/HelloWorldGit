@@ -44,3 +44,7 @@ Esto es un [enlace](http://google.com) de markdown.
 Esto es un link al [index](index.html)
 
 Esto es un link a la [parte superior del readme](**CABECERAS**)
+
+# IMAGENES
+
+![Logo github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
