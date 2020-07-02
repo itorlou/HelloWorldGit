@@ -90,3 +90,20 @@ function $initHighlight(block, cls) {
 
 export  $initHighlight;
 ``` 
+
+# TABLAS
+
+[Enlace a la docu de git](https://docs.github.com/es/github/writing-on-github/organizing-information-with-tables)
+
+| Comando | Descripción |
+| --- | --- |
+| git status | Enumera todos los archivos nuevos o modificados |
+| git diff | Muestra las diferencias de archivo que no han sido preparadas |
+
+
+# CITAS 
+
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
+
+Esto es otro texto fuera de la cita anterior.
