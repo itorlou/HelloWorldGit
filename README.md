@@ -107,3 +107,20 @@ Esto es un texto referente a una cita que pondremos debajo:
 > Esto es una cita.
 
 Esto es otro texto fuera de la cita anterior.
+> Esto es otra cita
+
+# HR (Líneas horizontales)
+
+Esto es un texto que será dividido por un hr.
+
+---
+
+Esto es un texto que está debajo divido por guiones
+
+***
+
+Dividido por asteriscos
+
+___
+
+Dividido por barras bajas.
