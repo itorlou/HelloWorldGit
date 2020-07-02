@@ -34,3 +34,13 @@ Underline 2
 - Esto es un item de lista sin  index.
 - Esto es un item de lista sin  index.
 - Esto es un item de lista sin  index.
+
+# LINKS
+
+Esto es un <a href="http://google.com">enlace</a> mezclando markdown con html.
+
+Esto es un [enlace](http://google.com) de markdown.
+
+Esto es un link al [index](index.html)
+
+Esto es un link a la [parte superior del readme](**CABECERAS**)
