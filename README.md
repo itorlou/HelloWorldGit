@@ -124,3 +124,10 @@ Dividido por asteriscos
 ___
 
 Dividido por barras bajas.
+
+# SALTOS DE LÍNEA
+
+Párrafo 1.
+ Este párrafo tiene mucho texto
+
+ pero para saltar la línea hay que dar dos saltos de carro en el editor.
